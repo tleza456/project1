@@ -8,6 +8,6 @@
 </head>
 <body>
     <a href="/">Wellcome</a> | <a href="/about">About</a> | <a href="/contact">Contact</a>
-    <h1>สวัสดีlaravel</h1>
+    <h1>page contact</h1>
 </body>
 </html>
