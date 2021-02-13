@@ -24,3 +24,11 @@ Route::get('/about', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+
+Route::get('/สวัสดี', function () {
+    return "สวัสดี";
+});
+
+Route::get('/hello/{name}', function ($name) {
+    return "สวัสดี $name";
+});
