@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Wellcome</title>
+    <title>Welcome</title>
 </head>
 <body>
-    <a href="/">Wellcome</a> | <a href="/about">About</a> | <a href="/contact">Contact</a>
+    <a href="/">Welcome</a> | <a href="/about">About</a> | <a href="/contact">Contact</a> | <a href="/category">Category</a>
     @yield("content")
     <hr>
     &copy; 2021 Natthanan Prasertsri
